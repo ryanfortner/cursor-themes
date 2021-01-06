@@ -1,7 +1,7 @@
 # Cursor themes
 Here are some nice cursor themes collection i'm using on my linux os.It work on many desktop environments.
 
-## Installtaion
+## Installation
 * On debian & debian based
 
 		sudo apt-get install xcursor-themes
