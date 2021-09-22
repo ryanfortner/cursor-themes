@@ -12,13 +12,13 @@ Here are some nice cursor themes collection i'm using on my linux os.It work on 
 		
 * Install themes on wide system
 
-		git clone https://github.com/chunky-milk/cursor-themes.git
+		git clone https://github.com/ryanfortner/cursor-themes.git
 		cd cursor-themes
 		sudo cp -r * /usr/share/icons
 		
 * Install themes on per user
 
 		mkdir ~/.icons
-		git clone https://github.com/chunky-milk/cursor-themes.git
+		git clone https://github.com/ryanfortner/cursor-themes.git
 		cd cusor-themes
 		cp -r * ~/.icons
